@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/node_modules/react-native/Libraries/Text/Text/RCTTextView.m \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/node_modules/react-native/Libraries/Text/Text/RCTTextView.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/node_modules/react-native/Libraries/Text/RCTTextTransform.h

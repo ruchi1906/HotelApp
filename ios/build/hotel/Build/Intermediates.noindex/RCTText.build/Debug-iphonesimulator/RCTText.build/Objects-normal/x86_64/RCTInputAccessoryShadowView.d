@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryShadowView.m \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryShadowView.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/webwerks/Documents/Project/HotelApp/Hotel/ios/build/hotel/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h

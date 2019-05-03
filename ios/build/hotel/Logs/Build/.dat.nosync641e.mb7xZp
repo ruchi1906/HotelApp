@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>C5433699-CA6C-4453-823B-F4C21723A545</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C5433699-CA6C-4453-823B-F4C21723A545.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hotel project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hotel</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project hotel with scheme hotel and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>578573082.66709995</real>
+			<key>timeStoppedRecording</key>
+			<real>578573084.04154396</real>
+			<key>title</key>
+			<string>Building project hotel with scheme hotel and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>C5433699-CA6C-4453-823B-F4C21723A545</string>
+		</dict>
+		<key>DEDB0D78-7703-4428-B73E-84CA1891599B</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DEDB0D78-7703-4428-B73E-84CA1891599B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hotel project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hotel</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project hotel with scheme hotel and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>578571446.99521899</real>
+			<key>timeStoppedRecording</key>
+			<real>578571465.10096204</real>
+			<key>title</key>
+			<string>Building project hotel with scheme hotel and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>DEDB0D78-7703-4428-B73E-84CA1891599B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

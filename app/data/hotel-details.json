@@ -1,0 +1,237 @@
+{
+  "name": "Hilton Singapore",
+  "images": [
+    {
+      "id": 1,
+      "image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+    },
+    {
+      "id": 2,
+      "image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+    },
+    {
+      "id": 3,
+      "image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+    }
+  ],
+  "rating": "4.5",
+  "comfort_rating": 9.1,
+  "service_rating": 8.8,
+  "reviews": [
+    {
+      "id": 1,
+      "comment": "nice location",
+      "user": "user a"
+    },
+    {
+      "id": 2,
+      "comment": "excellent location",
+      "user": "user b"
+    },
+    {
+      "id": 3,
+      "comment": "restaurants are nice too",
+      "user": "user c"
+    }
+  ],
+  "price_per_price": 250,
+  "discounted_price_per_price": null,
+  "currency": {
+    "id": 1,
+    "name": "SGD"
+  },
+  "category": [
+    {
+      "id": 1,
+      "name": "cozy"
+    },
+    {
+      "id": 2,
+      "name": "family"
+    }
+  ],
+  "location": {
+    "lat": 1.3059,
+    "long": 103.8294,
+    "address_1": "Scotts Road",
+    "address_2": "Orchard",
+    "city": "Singapore",
+    "province": null,
+    "country": "Singapore",
+    "postal_code": 123456
+  },
+  "check_in_details": {
+    "in_time": "14:00",
+    "out_time": null
+  },
+  "amenities": [
+    {
+      "id": 1,
+      "wifi": true
+    },
+    {
+      "id": 2,
+      "room_service": true
+    },
+    {
+      "id": 3,
+      "bathtub": true
+    },
+    {
+      "id": 4,
+      "parking": false
+    },
+    {
+      "id": 5,
+      "laudry": true
+    },
+    {
+      "id": 6,
+      "calling_facility": false
+    }
+  ],
+  "achievements": [
+    {
+      "id": 1,
+      "comment": "Rank 2 according to 2018 survey"
+    }
+  ],
+  "vouchers": [
+    {
+      "id": 1,
+      "name": "Foodpanda Special",
+      "image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png",
+      "expiry_date_time": "Expires in 5 days",
+      "discount_price": 50,
+      "discount_price_percentage": null,
+      "total": 102,
+      "is_redeemable": true
+    },
+    {
+      "id": 2,
+      "name": "Grab Special",
+      "image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png",
+      "expiry_date_time": "Expires in 15 days",
+      "discount_price": null,
+      "discount_price_percentage": 5,
+      "total": 20,
+      "is_redeemable": false
+    }
+  ],
+  "room_types": [
+    {
+      "id": 1,
+      "name": "Standard Room",
+      "images": [
+        {
+          "id": 1,
+          "image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+        },
+        {
+          "id": 2,
+          "image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+        },
+        {
+          "id": 3,
+          "image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+        },
+        {
+          "id": 4,
+          "image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+        },
+        {
+          "id": 5,
+          "image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+        },
+        {
+          "id": 6,
+          "image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+        }
+      ],
+      "bed_type": {
+        "id": 1,
+        "name": "Single Bed"
+      },
+      "price": 250,
+      "discount_price": null,
+      "currency": {
+        "id": 1,
+        "name": "SGD"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Deluxe Room",
+      "images": [
+        {
+          "id": 1,
+          "image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+        },
+        {
+          "id": 2,
+          "image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+        },
+        {
+          "id": 3,
+          "image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+        },
+        {
+          "id": 4,
+          "image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+        },
+        {
+          "id": 5,
+          "image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+        },
+        {
+          "id": 6,
+          "image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+        },
+        {
+          "id": 7,
+          "image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+        },
+        {
+          "id": 8,
+          "image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+        }
+      ],
+      "bed_type": {
+        "id": 1,
+        "name": "Double Bed"
+      },
+      "price": 280,
+      "discount_price": null,
+      "currency": {
+        "id": 1,
+        "name": "SGD"
+      }
+    }
+  ],
+  "attractions": [
+    {
+      "id": 1,
+      "name": "Attraction 1",
+      "distance": 250,
+      "thumbnail_image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+    },
+    {
+      "id": 2,
+      "name": "Attraction 2",
+      "distance": 300,
+      "thumbnail_image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+    },
+    {
+      "id": 3,
+      "name": "Attraction 3",
+      "distance": 700,
+      "thumbnail_image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+    },
+    {
+      "id": 4,
+      "name": "Attraction 4",
+      "distance": 1250,
+      "thumbnail_image_url": "https://www.slickwraps.com/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/l/o/logo_2_1.png"
+    }
+  ]
+}
